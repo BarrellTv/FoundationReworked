@@ -1,0 +1,14 @@
+{
+  "Name": "City Creator",
+  "Author": "Barrell",
+  "Description": "Auto-manage immigrants, assign villagers to jobs, and show villager job status in UI.",
+  "Version": "1.0.0",
+  "MapList": [
+        {
+            "Id": "City_Creator_I_1",
+            "Name": "City Creator Icon Name",
+            "Description": "City Creator Icon Description.",
+            "PreviewImage": "metadata/Logo.png"
+        }
+    ]
+}
